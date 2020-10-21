@@ -1,5 +1,5 @@
 ---
 title:"I love this page":
-date:2020-10-21
+date:YYYY-MM-DD
 ---
 I give up and start to follow the robot guide..
